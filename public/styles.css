@@ -1,0 +1,73 @@
+
+
+a{
+    text-decoration: none;
+    color: white;	
+}
+	
+p{
+    font-family: "Lucida Console", Courier, monospace;
+    color: white;
+	
+}
+
+.header{
+	background: violet ;
+	border-collapse: collapse;
+	height: 105px;
+}
+
+#article-1 {
+	float: left;
+	padding: 5px;
+	padding-left: 20px;
+	height: 90px;
+	padding-top: 10px;	
+}
+
+#center{
+	padding-top: 20px;
+}
+
+#article-2, #article-3, #article-4{
+	float: right;
+	padding: 5px;
+	height: 90px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	
+
+}
+#article-2:hover{
+	background: brown;
+	height: 90px;
+}
+
+#article-3:hover{
+	background: brown;
+	height: 90px;
+}
+
+#article-4:hover{
+	background: brown;
+	height: 90px;
+}
+.section{
+    border-radius: 4px;
+	background-color: white;
+	border: 1px solid black;
+	padding-bottom: 400px;
+    margin: 50px;
+    background-image: url("https://hoanggiaxt.com/wp-content/uploads/2018/02/iphone-8-banner.png");
+}
+.active-pink-4 input[type=text]:focus:not([readonly]) {
+	border: 1px solid #f48fb1;
+	box-shadow: 0 0 0 1px #f48fb1;
+  }
+.nav{
+	text-align: center;
+	padding: 3px;
+	background-color: DarkSalmon;
+	color: white;
+}
